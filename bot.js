@@ -5021,7 +5021,7 @@ function tweetIt() {
 let r = Math.floor(Math.random()* (tab.length))
   
   let tweet = {
-    status: "Aujourd'hui on aime "+ tab[r]+" !"
+    status: "Aujourd'hui on aime les "+ tab[r]+"!"
   }
 
   T.post('statuses/update', tweet, tweeted)

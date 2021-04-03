@@ -1,5 +1,5 @@
 /**
- * Put here your tokens received from Twitter
+ * mettre ici vos information de connection au bot
  */
 
 module.exports = {

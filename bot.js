@@ -1,4 +1,4 @@
-console.log("Running!")
+console.log("started !")
 
 let Twit = require('twit')
 
